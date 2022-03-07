@@ -1,4 +1,4 @@
-import clayful from 'clayful';
+import clayful from 'clayful/client-js';
 import React from 'react'
 
 function LandingPage() {
